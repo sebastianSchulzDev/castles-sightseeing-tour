@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainDarkBlue: #031336;
+$mainViolet: #9565dd;
+$mainWhite: #fff;
+$mainBlue: #6a76e4;
+
+body {
+  background: $mainWhite;
+  color: $mainDarkBlue;
+  font-family: "Open Sans", sans-serif;
+}
